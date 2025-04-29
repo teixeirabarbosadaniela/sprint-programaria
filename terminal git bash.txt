@@ -1,0 +1,23 @@
+Nessa aula, Patricia Parra ensinou os comandos básicos para utilização do GIT BASH, ao criar pastas sem utilizar a interface grafica do computador.
+
+Abrir o terminal (win>> digita GIT BASH)
+
+pwd+enter: onde está?
+
+ls+enter:
+
+clear+enter: limpar terminal
+
+cd+nome da pasta+enter: entrar na pasta (change directory)
+cd+..: sair da pasta
+
+git init (depois de entrar (cd+documents+enter))/antes garantir se está no local certo
+
+mkdir+nome (criar pasta) (exemplo: programaria>>cd programaria)
+touch+nome (criar arquivo) (exemplo: touch oi.md ou touch gatos.txt)
+
+
+para personalizar o git:
+git config --global user.name "peixemaquina"
+git config --global user.email "teixeirabarbosadaniela@gmail.com"
+git config --list
